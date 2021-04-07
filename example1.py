@@ -2,4 +2,8 @@ a = 10
 
 b = 20
 
-print(a + b)
+c = 30 
+
+name = "Narendra"
+print(a + b + c)
+print(name)
